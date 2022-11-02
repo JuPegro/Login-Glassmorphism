@@ -1,4 +1,7 @@
 # Login-Glassmorphism
+
+[![License](https://img.shields.io/static/v1?label=License&message=MIT&color=blue)](LICENSE.md)
+
 Frontend Login-Glassmorphism
 
 ## Features
